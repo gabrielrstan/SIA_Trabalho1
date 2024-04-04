@@ -1,6 +1,6 @@
 Primeiro trabalho para a disciplina Sistemas Inteligentes Aplicados da Universidade Tecnológica Fedetal do Paraná - 2020.
 
-Contrução do classificador KNN e do agrupador K-Means.
+Construção do classificador KNN e do agrupador K-Means.
 
 Aluno: Gabriel Rocha Stanzione
 
